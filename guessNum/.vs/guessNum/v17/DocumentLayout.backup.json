@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\coding\\guessNum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D162A5C-ED60-47FC-B283-9437EEB1A2C8}|guessNum.vcxproj|C:\\Users\\PC\\Desktop\\coding\\guessNum\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D162A5C-ED60-47FC-B283-9437EEB1A2C8}|guessNum.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D162A5C-ED60-47FC-B283-9437EEB1A2C8}|guessNum.vcxproj|C:\\Users\\PC\\Desktop\\coding\\guessNum\\myError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D162A5C-ED60-47FC-B283-9437EEB1A2C8}|guessNum.vcxproj|solutionrelative:myError.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\coding\\guessNum\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\coding\\guessNum\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-19T08:15:19.316Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myError.c",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\coding\\guessNum\\myError.c",
+              "RelativeDocumentMoniker": "myError.c",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\coding\\guessNum\\myError.c*",
+              "RelativeToolTip": "myError.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-19T08:25:44.058Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

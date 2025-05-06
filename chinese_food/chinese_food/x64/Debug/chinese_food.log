@@ -1,0 +1,13 @@
+﻿  main.c
+C:\Users\PC\Desktop\coding\chinese_food\main.c(30,35): warning C4047: '함수': 'char (**)[0]'의 간접 참조 수준이 'char [5][50]'과(와) 다릅니다.
+C:\Users\PC\Desktop\coding\chinese_food\main.c(30,35): warning C4024: 'Print': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\PC\Desktop\coding\chinese_food\main.c(31,34): warning C4047: '함수': 'char (**)[0]'의 간접 참조 수준이 'char [5][50]'과(와) 다릅니다.
+C:\Users\PC\Desktop\coding\chinese_food\main.c(31,34): warning C4024: 'Print': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\PC\Desktop\coding\chinese_food\main.c(35,35): warning C4047: '함수': 'char (**)[0]'의 간접 참조 수준이 'char [5][50]'과(와) 다릅니다.
+C:\Users\PC\Desktop\coding\chinese_food\main.c(35,35): warning C4024: 'Print': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\PC\Desktop\coding\chinese_food\main.c(36,34): warning C4047: '함수': 'char (**)[0]'의 간접 참조 수준이 'char [5][50]'과(와) 다릅니다.
+C:\Users\PC\Desktop\coding\chinese_food\main.c(36,34): warning C4024: 'Print': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\PC\Desktop\coding\chinese_food\main.c(40,17): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\PC\Desktop\coding\chinese_food\main.c(40,40): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\PC\Desktop\coding\chinese_food\main.c(54,30): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  chinese_food.vcxproj -> C:\Users\PC\Desktop\coding\chinese_food\x64\Debug\chinese_food.exe

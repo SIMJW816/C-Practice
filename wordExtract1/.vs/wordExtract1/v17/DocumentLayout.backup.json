@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\coding\\wordExtract1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{492CB6C1-5638-47B9-91F7-C205D97E294E}|wordExtract1.vcxproj|C:\\Users\\PC\\Desktop\\coding\\wordExtract1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{492CB6C1-5638-47B9-91F7-C205D97E294E}|wordExtract1.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\coding\\wordExtract1\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\coding\\wordExtract1\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAADwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-20T02:33:47.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\PC\Desktop\coding\file_array1\main.c(45,39): warning C4090: '함수': 다른 'const' 한정자
+C:\Users\PC\Desktop\coding\file_array1\main.c(86,11): warning C4098: 'PrintFile': 'void' 함수에서 값을 반환하고 있습니다.
+  file_array1.vcxproj -> C:\Users\PC\Desktop\coding\file_array1\x64\Debug\file_array1.exe

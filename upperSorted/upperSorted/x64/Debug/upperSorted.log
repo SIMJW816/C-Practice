@@ -1,0 +1,3 @@
+﻿  implementations.c
+C:\Users\PC\Desktop\coding\upperSorted\implementations.c(61,33): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  upperSorted.vcxproj -> C:\Users\PC\Desktop\coding\upperSorted\x64\Debug\upperSorted.exe

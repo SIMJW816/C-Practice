@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\PC\Desktop\coding\bigDictionary\main.c(105,43): warning C4090: '함수': 다른 'const' 한정자
+C:\Users\PC\Desktop\coding\bigDictionary\main.c(155,11): warning C4098: 'Print2File': 'void' 함수에서 값을 반환하고 있습니다.
+  bigDictionary.vcxproj -> C:\Users\PC\Desktop\coding\bigDictionary\x64\Debug\bigDictionary.exe
